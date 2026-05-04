@@ -38,7 +38,7 @@ const YoutubeVideo = () => {
               rel="noopener noreferrer"
               className="yt-header__title"
             >
-              ChaiCode Youtube
+              Learn Coding Online
             </a>
             <div className="yt-header__subtitle">Educational Content</div>
           </div>
