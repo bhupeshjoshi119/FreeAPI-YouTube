@@ -137,10 +137,9 @@ If a match is found, the card becomes clickable and opens YouTube in a new tab. 
 
 ---
 
-## 📜 License
 
-MIT — free to use, modify, and distribute.
 
 ---
 
-> Built with ❤️ to support [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharyCode)'s open-source community.
+> To learn more subscribe [Hitesh Choudhary](https://www.youtube.com/@chaiaurcode).
+
