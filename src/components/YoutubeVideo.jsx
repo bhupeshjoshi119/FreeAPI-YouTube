@@ -32,7 +32,14 @@ const YoutubeVideo = () => {
             </svg>
           </div>
           <div>
-            <div className="yt-header__title">Chai LearnTube</div>
+            <a
+              href="https://www.youtube.com/@chaiaurcode"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="yt-header__title"
+            >
+              ChaiCode Youtube
+            </a>
             <div className="yt-header__subtitle">Educational Content</div>
           </div>
         </div>
