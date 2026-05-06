@@ -12,6 +12,7 @@ const videoUrlMap = {
   "Appwrite Nextjs and context api": "https://www.youtube.com/watch?v=eSYvfCoWIzA",
   "Nextjs componets to talk to Appwrite": "https://www.youtube.com/watch?v=fyEA1R4lFyQ",
   "How to integrate appwrite to nextjs": "https://www.youtube.com/watch?v=1SMO6kWb9Eo",
+  "chai pe charcha":"https://www.youtube.com/watch?v=dfIiVP1VK44"
 };
 
 export default videoUrlMap;
